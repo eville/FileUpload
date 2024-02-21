@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\source\FileUploadService\FileUploadService.csproj" />
+    <ProjectReference Include="..\..\source\FileUploadService\FileValidationService.Api.csproj" />
   </ItemGroup>
 
 </Project>

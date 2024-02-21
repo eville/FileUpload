@@ -5,11 +5,11 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "source", "source", "{08BA3F5C-C6F9-4729-9B4F-30E765966E56}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileUploadService", "source\FileUploadService\FileUploadService.csproj", "{D712F197-397A-40A1-8495-3B2BD780F5E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileValidationService.Api", "source\FileUploadService\FileValidationService.Api.csproj", "{D712F197-397A-40A1-8495-3B2BD780F5E0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{381A3E7A-F4A9-42A5-9AB8-1C12DBBC24C8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileUploadService.Tests", "tests\FileUploadService.Tests\FileUploadService.Tests.csproj", "{8AF18579-8DBA-42D7-AB35-31945CFF72CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileValidationService.Api.Tests", "tests\FileUploadService.Tests\FileValidationService.Api.Tests.csproj", "{8AF18579-8DBA-42D7-AB35-31945CFF72CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
