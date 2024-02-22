@@ -1,6 +1,0 @@
-@FileUploadService_HostAddress = http://localhost:5280
-
-GET {{FileUploadService_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
