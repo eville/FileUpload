@@ -42,6 +42,7 @@ namespace FileUploadService.FileService
                 {
                     var extension = Path.GetExtension(fileSection.FileName);
 
+                    // todo: make it config value and need to use signature to make sure it is needed file type
                     if (!allowedExtensions.Contains(extension))
                     {
                         throw new BadRequestException("File extension is not supported.");
